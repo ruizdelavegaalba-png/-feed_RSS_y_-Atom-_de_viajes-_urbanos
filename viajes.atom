@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Explora Ciudades</title>
+    <subtitle>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</subtitle>
+    <link href="https://www.exploraciudades.com/viajes.atom" rel="self" />
+    <link href="https://www.exploraciudades.com" />
+    <id>tag:exploraciudades.com,2024:feed</id>
+    <updated>2024-05-20T10:00:00Z</updated>
+
+    <entry>
+        <title>Ruta gastronómica por Barcelona</title>
+        <link href="https://www.exploraciudades.com/ruta-barcelona" />
+        <id>https://www.exploraciudades.com/ruta-barcelona</id>
+        <updated>2024-05-20T09:00:00Z</updated>
+        <summary>Descubre los mejores rincones para tapear y disfrutar de la cocina catalana en el corazón de Barcelona.</summary>
+    </entry>
+
+    <entry>
+        <title>Los mejores miradores de París</title>
+        <link href="https://www.exploraciudades.com/miradores-paris" />
+        <id>https://www.exploraciudades.com/miradores-paris</id>
+        <updated>2024-05-19T15:30:00Z</updated>
+        <summary>Una selección de los puntos más altos de la Ciudad de la Luz para obtener las mejores fotografías panorámicas.</summary>
+    </entry>
+
+    <entry>
+        <title>Cómo moverse en Nueva York en 3 días</title>
+        <link href="https://www.exploraciudades.com/moverse-nueva-york" />
+        <id>https://www.exploraciudades.com/moverse-nueva-york</id>
+        <updated>2024-05-18T11:20:00Z</updated>
+        <summary>Guía práctica para dominar el metro y caminar la Gran Manzana optimizando tu tiempo al máximo.</summary>
+    </entry>
+
+    <entry>
+        <title>Museos imperdibles de Tokio</title>
+        <link href="https://www.exploraciudades.com/museos-tokio" />
+        <id>https://www.exploraciudades.com/museos-tokio</id>
+        <updated>2024-05-17T08:45:00Z</updated>
+        <summary>Desde arte digital hasta historia tradicional: recorremos los centros culturales más impactantes de la capital japonesa.</summary>
+    </entry>
+</feed>
